@@ -1,5 +1,5 @@
-# Visualizacion:
-## Descripcion
+# Visualization:
+## Description
 
 Experimental repository for **data visualization**.
 
