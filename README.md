@@ -13,3 +13,4 @@ Objectives:
 ``` python
 print("Hello World")
 ```
+![](./media/midigraph.png)
