@@ -10,6 +10,8 @@ Objectives:
 3. Enchance explanations by using visual analogies
 ----
 
+Ir a [introducción](./docs/introduccion.md).
+
 ``` python
 print("Hello World")
 ```
